@@ -57,6 +57,13 @@
 ![Elastic](https://img.shields.io/badge/elasticsearch-05122A.svg?style=for-the-badge&logo=elasticsearch&logoColor=005571)
 ![Redis](https://img.shields.io/badge/redis-05122A.svg?style=for-the-badge&logo=redis&logoColor=FF4438)
 
+### Data Science and Machine Learning
+![Scikit](https://img.shields.io/badge/scikitlearn-05122A.svg?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Pytorch](https://img.shields.io/badge/pytorch-05122A.svg?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Pandas](https://img.shields.io/badge/pandas-05122A.svg?style=for-the-badge&logo=pandas&logoColor=3F0CD8)
+![Spark](https://img.shields.io/badge/apachespark-05122A.svg?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
+![kafka](https://img.shields.io/badge/apachekafka-05122A.svg?style=for-the-badge&logo=apachekafka&logoColor=FF4F8B)
+
 ### AWS
 ![Lambda](https://img.shields.io/badge/awslambda-05122A.svg?style=for-the-badge&logo=awslambda&logoColor=FF9900)
 ![s3](https://img.shields.io/badge/amazons3-05122A.svg?style=for-the-badge&logo=amazons3&logoColor=569A31)
