@@ -57,6 +57,11 @@
 ![Elastic](https://img.shields.io/badge/elasticsearch-05122A.svg?style=for-the-badge&logo=elasticsearch&logoColor=005571)
 ![Redis](https://img.shields.io/badge/redis-05122A.svg?style=for-the-badge&logo=redis&logoColor=FF4438)
 
+### AWS
+![Lambda](https://img.shields.io/badge/awslambda-05122A.svg?style=for-the-badge&logo=awslambda&logoColor=FF9900)
+![s3](https://img.shields.io/badge/amazons3-05122A.svg?style=for-the-badge&logo=amazons3&logoColor=569A31)
+![SQS](https://img.shields.io/badge/amazonsqs-05122A.svg?style=for-the-badge&logo=amazonsqs&logoColor=#FF4F8B)
+
 
 ## <b>⚙️ &nbsp;GitHub Analytics</b>
 
