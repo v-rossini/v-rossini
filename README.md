@@ -28,14 +28,13 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux&logoColor=purple)
-![React Router](https://img.shields.io/badge/React_Router-05122A?style=for-the-badge&logo=react-router&logoColor=red)
 ![Vite](https://img.shields.io/badge/vite-05122A.svg?style=for-the-badge&logo=vite&logoColor=yellow)
 ![Next JS](https://img.shields.io/badge/Next-05122A?style=for-the-badge&logo=next.js)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)
