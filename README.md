@@ -15,7 +15,7 @@
 </div>
 
 <br>
-
+---
 ## <b> 🛠 Tech Stack</b>
 
 <div>
