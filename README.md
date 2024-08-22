@@ -31,7 +31,7 @@
 
 </div>
 
-## Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux&logoColor=purple)
@@ -42,7 +42,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=for-the-badge&logo=tailwindcss&logoColor=1572B6)
 ![Styled Components](https://img.shields.io/badge/styled--components-05122A?style=for-the-badge&logo=styled-components)
 
-## Backend
+### Backend
 
 ![NodeJS](https://img.shields.io/badge/node.js-05122A?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/express.js-05122A.svg?style=for-the-badge&logo=express)
@@ -51,7 +51,7 @@
 ![FastAPI](https://img.shields.io/badge/fastapi-05122A?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Flask](https://img.shields.io/badge/flask-05122A?style=for-the-badge&logo=flask&logoColor=ffffff)
 
-## Database
+### Database
 ![MySQL](https://img.shields.io/badge/mysql-05122A.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Firebase](https://img.shields.io/badge/firebase-05122A.svg?style=for-the-badge&logo=firebase&logoColor=DD2C00)
@@ -59,7 +59,7 @@
 ![Redis](https://img.shields.io/badge/redis-05122A.svg?style=for-the-badge&logo=redis&logoColor=FF4438)
 
 
-### <b>⚙️ &nbsp;GitHub Analytics</b>
+## <b>⚙️ &nbsp;GitHub Analytics</b>
 
 <p align="center">
 <a href="https://github.com/v-rossini">
