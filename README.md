@@ -68,7 +68,7 @@
 </a>
 </p>   
   
-  ### 🤝🏻 &nbsp;Contact Me
+## 🤝🏻 &nbsp;Contact Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vitor-rossini-gonzalez-260226201/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
