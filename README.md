@@ -59,7 +59,7 @@
 ![Redis](https://img.shields.io/badge/redis-05122A.svg?style=for-the-badge&logo=redis&logoColor=FF4438)
 
 
-### ⚙️ &nbsp;GitHub Analytics
+### <b>⚙️ &nbsp;GitHub Analytics</b>
 
 <p align="center">
 <a href="https://github.com/v-rossini">
