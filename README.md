@@ -7,7 +7,7 @@
 🌎 I'm a developer from Minas Gerais, Brazil  
 📚 I'm knowledgeable in multiple languages and tech stacks  
 🎓 I'm finishing my degree in Computer Engineering at UFJF  
-🐍 Python is my go-to programming language
+🐍 Python is my go-to programming language  
 ☕ I also have considerable experience with Java and Javascript  
 🧪 I have a strong personal interest in Data Science, Data Engineering, Machine Learning, Statistics and related areas  
 
